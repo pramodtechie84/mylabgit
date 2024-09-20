@@ -1,8 +1,13 @@
 this is another file
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 lets make a change
 Let's make another change.
+=======
+
+add one more line
+>>>>>>> featureA
 =======
 
 add one more line
