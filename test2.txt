@@ -1,4 +1,9 @@
 this is another file
 
+<<<<<<< HEAD
 lets make a change
 Let's make another change.
+=======
+
+add one more line
+>>>>>>> featureA
